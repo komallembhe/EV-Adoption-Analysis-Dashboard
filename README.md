@@ -87,8 +87,8 @@ EV-Adoption-Analysis-Dashboard/
 │
 ├── README.md
 ├── EV_Dataset.csv
-├── EV_Adoption_Analysis.sql
-├── EV_Adoption_Dashboard.pbix
+├── EV_ADOPTION_ANALYSIS.sql
+├── EV_ADOPTION_ANALYSIS_MAIN.pbix
 └── EV_Dashboard.png
 
 ## 🚀 Conclusion
